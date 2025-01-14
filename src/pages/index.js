@@ -2,7 +2,7 @@ import styles from "@styles/Home.module.css";
 
 import Head from "next/head";
 
-export const EMPTY_RESULT_HINT = "Geben Sie einen Wert > 1 ein in das Formular ein.";
+export const EMPTY_RESULT_HINT = "Geben Sie in das Formular einen Wert > 1 ein.";
 
 function Home() {
     return (
